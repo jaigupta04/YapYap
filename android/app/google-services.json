@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "897467470852",
+    "project_id": "yapyap-33bfc",
+    "storage_bucket": "yapyap-33bfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897467470852:android:34c9abd89a989aea965151",
+        "android_client_info": {
+          "package_name": "com.example.yapyap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYW9Aep8uQ5rdsjsG0hXrCk3fUyE5Vts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897467470852:android:7e89d9cf7e30efea965151",
+        "android_client_info": {
+          "package_name": "com.example.yapyap2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYW9Aep8uQ5rdsjsG0hXrCk3fUyE5Vts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
